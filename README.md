@@ -15,3 +15,14 @@ Demographic Analysis: Gain insights into the workforce composition by age, gende
 
 Workforce Trends: Identify patterns and trends in attendance, engagement, and other KPIs.
 
+Key Insights
+
+Attrition Trends: High turnover in certain departments.
+
+Performance Gaps: Insights into areas needing improvement.
+
+Employee Engagement: Factors contributing to higher satisfaction.
+
+Contributions
+
+Contributions are welcome! If you'd like to improve this project or add new features, please submit a pull request.
